@@ -74,4 +74,4 @@ The program will generate a performance graph at `outputs/line_chart.png`.
 5. **Visualization**: Plots results with the optimal configuration highlighted
 
 ## Author
-**Chittajit Nath, NIT Durgapur**
+**Sayan Karmakar, NIT Durgapur**
