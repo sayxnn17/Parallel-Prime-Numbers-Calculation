@@ -1,0 +1,6 @@
+Prompt Used:
+
+Write a C program to compute prime numbers in a given range using multiple child processes.
+Use fork(), signal(), kill(), file handling, system calls and measure execution time.
+Store primes in a file and analyze performance.
+
