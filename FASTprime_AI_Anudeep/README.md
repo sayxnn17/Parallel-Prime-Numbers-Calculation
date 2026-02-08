@@ -58,5 +58,5 @@ The purpose of submitting this AI implementation is to:
 
 ## Author
 
-Name: Anudeep Devineni
+Name: Devineni Anudeep
 Roll No : 24CS8100
