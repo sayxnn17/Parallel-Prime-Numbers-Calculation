@@ -31,7 +31,6 @@ The following prompt was given to generate the code:
 
 ## Difference from Man-made Code
 
-- AI code uses optimized prime checking (√n method).  
 - Includes error handling for system calls.  
 - Uses balanced workload division.  
 - More structured formatting.  
