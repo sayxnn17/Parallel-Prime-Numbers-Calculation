@@ -90,5 +90,5 @@ This project demonstrates that parallel processing significantly reduces executi
 
 ## Author
 
-Name: Anudeep  
+Name: Devineni Anudeep  
 Roll No: 24CS8100
