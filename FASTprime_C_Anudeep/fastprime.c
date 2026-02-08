@@ -46,8 +46,7 @@ int main()
     scanf("%d", &n);
 
     // open file
-    int fd = open("prime.txt",
-                  O_CREAT | O_WRONLY | O_TRUNC,0644);
+    int fd = open("prime.txt",O_CREAT | O_WRONLY | O_TRUNC,0644);
 
     // register signal
     signal(SIGUSR1, done);
