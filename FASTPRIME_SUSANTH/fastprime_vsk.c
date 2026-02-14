@@ -40,7 +40,7 @@ int main()
     
     scanf("%d %d", &rl, &rh);
 
-    printf("Enter number of child processes: "); /* no.of children*/
+    printf("Enter number of child processes: "); // no.of children
     scanf("%d", &n);
 
     /*for opening and granting files the operations that we can perform*/
